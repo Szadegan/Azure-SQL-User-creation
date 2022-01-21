@@ -9,7 +9,7 @@ CREATE USER <username> FOR LOGIN <username>;
 ```
 
 ## Second step
-On Azure SQL staging db
+On Azure SQL specific(e.g staging, production,...) db
 ```
 USE [database-name]
 GO
